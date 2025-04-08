@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem-vindo ao meu GitHub 👋
+Me Chamo Alice, sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, atualmente busco aprimorar meus conhecimentos e habilidades em **análise de dados** e <b>desenvolvimento Web</b>.
 
-<!--
-**alicebarsouza/alicebarsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Sobre mim 
+<div>
+🎓 Formação: Licenciatura em Física pelo Instituto Federal do Espírito Santo (2016-2020) </br></br>
+ 🖥 Em transição de carreira para <b>Análise e Desenvolvimento de Sistemas</b> pela Universidade Vila Velha UVV (2025-2027), com interesse em desenvolvimento Web e análise de dados; </br></br> 
+🛠 Habilidades: HTML5, CSS3, JavaScript; </br></br>
+📕 Cursos: no momento, além da graduação, estou realizando os cursos de JavaScript do **Curso em vídeo** e "Front-end do Zero" da DIO </br></br>
+🌎 Idiomas: Português (nativo), Inglês (Intermemdiário).
+</div>
 
-Here are some ideas to get you started:
+## 📬 Entre em contato
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href = "alicebarsouza2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alice-barbosa-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
