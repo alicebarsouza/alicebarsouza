@@ -3,7 +3,7 @@ Me Chamo Alice, sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, 
 
 ## ✨ Sobre mim 
 <div>
-🎓 Formação: Licenciatura em Física pelo Instituto Federal do Espírito Santo (2016-2020) </br></br>
+🎓 Formação: <b>Licenciatura em Física</b> pelo Instituto Federal do Espírito Santo (2016-2020) </br></br>
  🖥 Em transição de carreira para <b>Análise e Desenvolvimento de Sistemas</b> pela Universidade Vila Velha UVV (2025-2027), com interesse em desenvolvimento Web e análise de dados; </br></br> 
 🛠 Habilidades: HTML5, CSS3, JavaScript; </br></br>
 📕 Cursos: no momento, além da graduação, estou realizando os cursos de JavaScript do **Curso em vídeo** e "Front-end do Zero" da DIO </br></br>
